@@ -218,7 +218,7 @@ i {
 .content {
   position: relative;
   flex-grow: 1;
-  padding-top: 20px;
+  padding-top: 200px;
 }
 
 .content .content-block {
